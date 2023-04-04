@@ -2,7 +2,7 @@
 *.db
 *.log
 
-# directory names
+# directory names added
 
 /target
 /bin
