@@ -1,0 +1,8 @@
+# extensions restriction
+*.db
+*.log
+
+# directory names
+
+/target
+/bin
